@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/bankdatadeploy/static/css/main.74d58e95.chunk.css",
+    "main.js": "/bankdatadeploy/static/js/main.27e4ba86.chunk.js",
+    "main.js.map": "/bankdatadeploy/static/js/main.27e4ba86.chunk.js.map",
+    "runtime-main.js": "/bankdatadeploy/static/js/runtime-main.6ed80ec4.js",
+    "runtime-main.js.map": "/bankdatadeploy/static/js/runtime-main.6ed80ec4.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/bankdatadeploy/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.be6cf2b4.chunk.js": "/bankdatadeploy/static/js/2.be6cf2b4.chunk.js",
+    "static/js/2.be6cf2b4.chunk.js.map": "/bankdatadeploy/static/js/2.be6cf2b4.chunk.js.map",
+    "index.html": "/bankdatadeploy/index.html",
+    "precache-manifest.db59bfebdb2dfd973a60b00abc89f44f.js": "/bankdatadeploy/precache-manifest.db59bfebdb2dfd973a60b00abc89f44f.js",
+    "service-worker.js": "/bankdatadeploy/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/bankdatadeploy/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.74d58e95.chunk.css.map": "/bankdatadeploy/static/css/main.74d58e95.chunk.css.map",
+    "static/js/2.be6cf2b4.chunk.js.LICENSE.txt": "/bankdatadeploy/static/js/2.be6cf2b4.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/bankdatadeploy/static/media/logo.ee7cd8ed.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ed80ec4.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.be6cf2b4.chunk.js",
+    "static/css/main.74d58e95.chunk.css",
+    "static/js/main.27e4ba86.chunk.js"
+  ]
+}
