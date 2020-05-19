@@ -1,0 +1,16 @@
+/* Custom CSS for Table */
+
+.react-bs-table-pagination {
+    margin-top: 20px !important;
+}
+.react-bs-table-search-form {
+    margin-top: -38px !important;
+}
+.react-bs-table { height: auto !important; }
+.react-bs-container-body{
+    min-height: auto!important;
+    max-height: 450px;
+    height:auto!important;
+
+    
+}
